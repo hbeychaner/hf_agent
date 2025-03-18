@@ -1,0 +1,7 @@
+# Add all instances of .DS_Store and pycache 
+**/.DS_Store
+**/__pycache__
+.env
+.vscode
+.venv
+false
